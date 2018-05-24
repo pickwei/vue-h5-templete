@@ -1,3 +1,8 @@
+body{
+    height: 100%;
+    background-color: #25cfb6;
+}
+
 img { content: normal !important; } /* 全局配置 防止图片不显示 */
 .img-responsive {
    width: 100%;  
