@@ -1,10 +1,11 @@
 # vue-h5-templete
 
-> A Vue.js project
+>基于vue移动端 vw适配方案 ，根据大漠老师文章[《如何在Vue项目中使用vw实现移动端适配》](http://www.w3cplus.com/mobile/vw-layout-in-vue.html)配置
 
 ## Build Setup
 
 ``` bash
+
 # install dependencies
 npm install
 
